@@ -531,7 +531,7 @@ If you use this project in your research, please cite:
 
 **Ayushman Mishra**
 - 🎓 VIT Bhopal University
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [ayushmanmishra0018@gmail.com]
 - 🔗 GitHub: [@tekvora7](https://github.com/tekvora7)
 - 💼 LinkedIn: [Your LinkedIn Profile]
 
